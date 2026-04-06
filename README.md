@@ -1,8 +1,30 @@
-## 🗓 Upcoming 2024 Speaking Engagements (Conferences)
-* KCDC - June
+## 🗓 Upcoming 2026 Speaking Engagements (Conferences)
+* JAX Hybrid
+* Techorama
+* Cyber Security Congress 2026
+* Infosecurity Europe 2026
+* Devoxx Poland
+* Black Hat USA 2026
+* KCDC
+* WeAreDevelopers
+* Commit Your Code
+* W-JAX
+* QCon San Francisco
+* Black Hat Europe 2026
 
 ## Past Speaking Engagements (Conferences)
+### 2026
+* Voxxed Days Amsterdam
+* RSAC™ Conference 2026
+* Jfokus
+* CodeMash
+* Jfokus
+* RSAC™ Conference 2026
+### 2025
+* Black Hat EU
+* Commit Your Code
 ### 2024
+* KCDC
 * CodeMash - January
   
 ## Past Speaking Engagements (Conferences)
