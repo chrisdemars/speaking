@@ -1,19 +1,19 @@
 ## 🗓 Upcoming 2026 Speaking Engagements (Conferences)
-* JAX Hybrid
-* Techorama
-* Cyber Security Congress 2026
-* Infosecurity Europe 2026
-* Devoxx Poland
+* Chain React
 * Black Hat USA 2026
 * KCDC
 * WeAreDevelopers
 * Commit Your Code
-* W-JAX
 * QCon San Francisco
-* Black Hat Europe 2026
 
 ## Past Speaking Engagements (Conferences)
 ### 2026
+* VueConf U.S.
+* Cyber Security Congress 2026
+* Techorama
+* JAX Hybrid
+* Stir Trek
+* Codestock
 * Voxxed Days Amsterdam
 * RSAC™ Conference 2026
 * Jfokus
