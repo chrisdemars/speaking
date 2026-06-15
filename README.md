@@ -21,6 +21,7 @@
 ### 2025
 * Black Hat EU
 * Commit Your Code
+* MI DevFest
 ### 2024
 * KCDC
 * CodeMash - January
