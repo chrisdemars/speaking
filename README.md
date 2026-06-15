@@ -18,8 +18,6 @@
 * RSAC™ Conference 2026
 * Jfokus
 * CodeMash
-* Jfokus
-* RSAC™ Conference 2026
 ### 2025
 * Black Hat EU
 * Commit Your Code
